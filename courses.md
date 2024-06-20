@@ -7,7 +7,9 @@ The API endpoint as of Feb 16, 2024 is https://contenttest.osu.edu/v2/classes/se
 
 ### Query
 
+```
 https://contenttest.osu.edu/v2/classes/search?q=cse
+```
 
 Searches for classes can be requested by appending the word 'search', and specifying the search query as a URL-encoded parameter labeled as 'q'. For example:
 ```
